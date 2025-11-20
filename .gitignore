@@ -2,3 +2,5 @@
 /dist
 .env
 .smithery
+*.log
+setup.ps1

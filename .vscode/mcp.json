@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "brave-search": {
+      "command": "node",
+      "args": ["${workspaceFolder}/dist/index.js"]
+    }
+  }
+}
+
